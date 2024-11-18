@@ -110,7 +110,7 @@
         </ul>
     </main>
     <footer>
-        <p>&copy; 2024 My Website</p>
+        <p>&copy; 2024 </p>https://roadmap.sh/projects/basic-html-website
     </footer>
 </body>
 </html>
